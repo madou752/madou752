@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f5fbf,100:04bbff&height=200&section=header&text=Mehdi%20Hammadou&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Madou%20%E2%80%A2%20D%C3%A9veloppeur%20Web%20%26%20Logiciel&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Mehdi Hammadou" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f5fbf,100:04bbff&height=200&section=header&text=Mehdi%20Hammadou&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Madou%20%E2%80%A2%20D%C3%A9veloppeur%20Web%20et%20Logiciel&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Mehdi Hammadou" />
 </p>
 
 <p align="center">
