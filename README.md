@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f5fbf,100:04bbff&height=200&section=header&text=Mehdi%20Hammadou&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=aka%20Madou%20%E2%80%A2%20D%C3%A9veloppeur%20Web%20et%20Logiciel&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Mehdi Hammadou" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f5fbf,100:04bbff&height=200&section=header&text=Mehdi%20Hammadou&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Web%20et%20Logiciel&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Mehdi Hammadou" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://portfoliohammadoumehdi.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=04BBFF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Madou;D%C3%A9veloppeur+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Flutter;Je+transforme+des+id%C3%A9es+en+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=04BBFF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Mehdi;D%C3%A9veloppeur+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Flutter;Je+transforme+des+id%C3%A9es+en+apps" alt="Typing SVG" />
   </a>
 </p>
 
