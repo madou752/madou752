@@ -52,24 +52,26 @@ Tout a commencé avec les jeux vidéo et l'envie de comprendre comment ils étai
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://rose-map.vercel.app/"><img src="https://raw.githubusercontent.com/madou752/portfolio/main/public/rosemap.png" alt="RoseMap" /></a>
-      <h3><img src="assets/icons/rosemap.svg" height="20" /> RoseMap</h3>
-      <p>Carte interactive qui centralise les actions et événements d'Octobre Rose. Projet de groupe.</p>
+      <a href="https://lahistair.vercel.app/"><img src="assets/projects/lahistair.png" alt="Lahist'air" /></a>
+      <h3><img src="assets/icons/lahistair.svg" height="20" /> Lahist'air</h3>
+      <p>E-commerce haut de gamme pour une maison d'air d'exception : boutique, panier, checkout et certificats. Workshop dev.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <img src="assets/icons/demo.svg" height="14" /> <a href="https://rose-map.vercel.app/">Démo</a> &nbsp; <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/yanisberthaud/rose-map">Code</a>
+      <img src="assets/icons/demo.svg" height="14" /> <a href="https://lahistair.vercel.app/">Démo</a> &nbsp; <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/workshop_dev">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://gladiadoums.vercel.app/"><img src="https://raw.githubusercontent.com/madou752/portfolio/main/public/gladiadoums.png" alt="GladiaDOUMS" /></a>
-      <h3><img src="assets/icons/gladiadoums.svg" height="20" /> GladiaDOUMS</h3>
-      <p>Jeu de combat de gladiateurs au tour par tour, jouable dans le navigateur.</p>
+      <a href="https://github.com/madou752/wp_tucana"><img src="assets/projects/tucana.png" alt="Tucana" /></a>
+      <h3><img src="assets/icons/tucana.svg" height="20" /> Tucana</h3>
+      <p>Thème WordPress sur mesure pour une plateforme de voyage responsable et solidaire, avec types de contenus personnalisés (voyages, activités).</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blazor_WASM-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       </p>
-      <img src="assets/icons/demo.svg" height="14" /> <a href="https://gladiadoums.vercel.app/">Démo</a> &nbsp; <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/gladiadoums">Code</a>
+      <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/wp_tucana">Code</a>
     </td>
   </tr>
   <tr>
@@ -84,14 +86,15 @@ Tout a commencé avec les jeux vidéo et l'envie de comprendre comment ils étai
       <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/doumsdeal">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://doums-ia.vercel.app/"><img src="https://raw.githubusercontent.com/madou752/portfolio/main/public/doumsIA.png" alt="Doums IA" /></a>
-      <h3><img src="assets/icons/doumsia.svg" height="20" /> Doums IA</h3>
-      <p>Générateur de prompts optimisés pour les IA. Léger et rapide, en JavaScript vanilla.</p>
+      <a href="https://github.com/madou752/madex"><img src="assets/projects/madex_ui.png" alt="MADEX" /></a>
+      <h3><img src="assets/icons/madex.svg" height="20" /> MADEX</h3>
+      <p>Mon « Jarvis » perso : assistant vocal qui pilote des sessions Claude Code, Spotify et Gmail, avec garde-fous avant chaque action.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
       </p>
-      <img src="assets/icons/demo.svg" height="14" /> <a href="https://doums-ia.vercel.app/">Démo</a> &nbsp; <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/doumsIA">Code</a>
+      <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/madex">Code</a>
     </td>
   </tr>
 </table>
