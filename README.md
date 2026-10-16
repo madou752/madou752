@@ -25,21 +25,21 @@
 
 ## <img src="assets/icons/about.svg" height="26" /> À propos
 
-Étudiant en informatique en **alternance**, passionné par le **développement web et mobile**.
-Tout a commencé avec les jeux vidéo et l'envie de comprendre comment ils étaient conçus. Aujourd'hui, je crée des interfaces **fluides** et **agréables à utiliser**, du front au back.
+Développeur **web et mobile** en alternance, je conçois des applications de bout en bout : de l'interface jusqu'à l'API et la base de données.
+J'ai découvert le code en cherchant à comprendre comment les jeux vidéo étaient construits. Depuis, je n'ai pas arrêté : sites, apps mobiles, outils d'IA, jeux navigateur.
+Ce qui me motive : livrer des produits **rapides**, **soignés** et **agréables à utiliser**, avec un code propre derrière.
 
-<img src="assets/icons/school.svg" height="16" /> **Parcours** : Licence MIASHS → L2 Informatique → École de dev web en alternance<br/>
+<img src="assets/icons/school.svg" height="16" /> **Parcours** : Licence MIASHS → L2 Informatique → École de développement web en alternance<br/>
 <img src="assets/icons/work.svg" height="16" /> **Alternant** chez **ADEO**<br/>
-<img src="assets/icons/learning.svg" height="16" /> **En ce moment** : TypeScript, Spring Boot et architecture full-stack<br/>
-<img src="assets/icons/goal.svg" height="16" /> **Objectif** : devenir un développeur polyvalent qui conçoit des projets utiles, clairs et élégants<br/>
-<img src="assets/icons/fun.svg" height="16" /> **Fun fact** : j'ai codé un jeu de gladiateurs en C# / Blazor, juste pour le plaisir
+<img src="assets/icons/learning.svg" height="16" /> **En ce moment** : Vue.js, Kotlin, JavaScript / React et Flutter<br/>
+<img src="assets/icons/goal.svg" height="16" /> **Objectif** : devenir un développeur polyvalent qui conçoit des projets utiles, clairs et élégants
 
 ---
 
 ## <img src="assets/icons/stack.svg" height="26" /> Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,php,py,java,kotlin,spring,flutter,cs,dotnet&perline=7" alt="Langages et frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,php,py,java,kotlin,spring,flutter,cs,dotnet&perline=7" alt="Langages et frameworks" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,gitlab,linux,vscode,vercel&perline=7" alt="Outils" />
@@ -64,14 +64,15 @@ Tout a commencé avec les jeux vidéo et l'envie de comprendre comment ils étai
       <img src="assets/icons/demo.svg" height="14" /> <a href="https://lahistair.vercel.app/">Démo</a> &nbsp; <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/workshop_dev">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/madou752/wp_tucana"><img src="assets/projects/tucana.png" alt="Tucana" /></a>
-      <h3><img src="assets/icons/tucana.svg" height="20" /> Tucana</h3>
-      <p>Thème WordPress sur mesure pour une plateforme de voyage responsable et solidaire, avec types de contenus personnalisés (voyages, activités).</p>
+      <a href="https://joy-club.vercel.app/"><img src="assets/projects/joy.png" alt="Joy Energy" /></a>
+      <h3><img src="assets/icons/joy.svg" height="20" /> Joy Energy</h3>
+      <p>Landing page d'une boisson énergisante servie au JOY CLUB de Lille : design noir et blanc, typographie XXL, pré-commande. Projet de groupe.</p>
       <p>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/madou752/wp_tucana">Code</a>
+      <img src="assets/icons/demo.svg" height="14" /> <a href="https://joy-club.vercel.app/">Démo</a> &nbsp; <img src="assets/icons/code.svg" height="14" /> <a href="https://github.com/celest6667/JoyClub">Code</a>
     </td>
   </tr>
   <tr>
@@ -115,7 +116,7 @@ Tout a commencé avec les jeux vidéo et l'envie de comprendre comment ils étai
 ---
 
 <p align="center">
-  <img src="assets/icons/contact.svg" height="16" /> <i>Envie de bosser ensemble ? On fera de belles choses.</i>
+  <img src="assets/icons/contact.svg" height="16" /> <i>Envie de collaborer ? On fera de belles choses.</i>
 </p>
 
 <!-- ===== FOOTER ===== -->
