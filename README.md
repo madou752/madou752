@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://portfoliohammadoumehdi.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=04BBFF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Mehdi;D%C3%A9veloppeur+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Flutter;Je+transforme+des+id%C3%A9es+en+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=04BBFF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Madou;D%C3%A9veloppeur+Web+%26+Mobile;React+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Flutter;Je+transforme+des+id%C3%A9es+en+apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ J'ai découvert le code en cherchant à comprendre comment les jeux vidéo étai
 Ce qui me motive : livrer des produits **rapides**, **soignés** et **agréables à utiliser**, avec un code propre derrière.
 
 <img src="assets/icons/school.svg" height="16" /> **Parcours** : Licence MIASHS → L2 Informatique → École de développement web en alternance<br/>
-<img src="assets/icons/work.svg" height="16" /> **Alternant** chez **ADEO**<br/>
+<img src="assets/icons/work.svg" height="16" /> **Développeur full stack** en alternance chez **ADEO**<br/>
 <img src="assets/icons/learning.svg" height="16" /> **En ce moment** : Vue.js, Kotlin, JavaScript / React et Flutter<br/>
 <img src="assets/icons/goal.svg" height="16" /> **Objectif** : devenir un développeur polyvalent qui conçoit des projets utiles, clairs et élégants
 
